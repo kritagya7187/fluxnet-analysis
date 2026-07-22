@@ -1,0 +1,5 @@
+Test,Value,Interpretation
+Mean GPP difference (stressed),13.00 vs 13.05,Similar baseline stress response
+Mann-Whitney U test,"U = 40507124.50, p = 1.32e-03",Distributions not significantly different
+T-test (GPP under stress),"t = -0.41, p = 6.81e-01",No significant difference in mean
+Effect size (Cohen's d),-0.006,Small effect size

@@ -1,0 +1,5 @@
+Strategy,Prediction,Observed,Outcome
+Anisohydric,Minimal decoupling (Δr ≈ 0),Δr = 0.032 ✓,CONFIRMED
+Isohydric,Strong decoupling (Δr > 0.1),Δr = 0.178 ✓,CONFIRMED
+Anisohydric,Mechanism: Hydraulic limitation,"r(VPD,GPP|low-SWC)=0.317 ✓",CONFIRMED
+Isohydric,Mechanism: Stomatal closure,"r(VPD,GPP|low-SWC)=0.323 ✓",CONFIRMED

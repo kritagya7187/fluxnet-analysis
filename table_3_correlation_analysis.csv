@@ -1,0 +1,7 @@
+Strategy,Condition,N,r(GPP-ET),p-value,Significance
+Anisohydric,Baseline,24542,0.8530,0.00e+00,***
+Anisohydric,Stressed,8040,0.8207,0.00e+00,***
+Anisohydric,Δr (Decoupling),—,0.0323,0.00e+00,***
+Isohydric,Baseline,26781,0.7735,0.00e+00,***
+Isohydric,Stressed,10362,0.5951,0.00e+00,***
+Isohydric,Δr (Decoupling),—,0.1784,0.00e+00,***

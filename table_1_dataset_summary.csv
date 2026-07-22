@@ -1,0 +1,12 @@
+Metric,Value
+Total records (raw),"138,417"
+Records after cleaning,"69,725"
+Data retained (%),50.4%
+Unique sites,13
+Date range,1992-04-24 00:00:00 to 2025-10-26 00:00:00
+Anisohydric records,"32,582"
+Isohydric records,"37,143"
+Baseline records,"51,323"
+Stressed records,"18,402"
+Baseline (%),73.6%
+Stressed (%),26.4%

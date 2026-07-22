@@ -1,0 +1,5 @@
+Strategy,Condition,N,Slope,Intercept,R²,p-value,Std Error,Interpretation
+Anisohydric,Baseline,24542,2.8827,0.6875,0.7276,0.00e+00,0.0113,GPP increases 2.883 gC/m²/day per mm ET
+Anisohydric,Stressed,8040,2.1730,2.7585,0.6735,0.00e+00,0.0169,GPP increases 2.173 gC/m²/day per mm ET
+Isohydric,Baseline,26781,2.4966,1.6977,0.5983,0.00e+00,0.0125,GPP increases 2.497 gC/m²/day per mm ET
+Isohydric,Stressed,10362,1.6914,6.3751,0.3541,0.00e+00,0.0224,GPP increases 1.691 gC/m²/day per mm ET
